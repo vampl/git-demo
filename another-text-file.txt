@@ -1,1 +1,0 @@
-now it is a file to store data as it is.
