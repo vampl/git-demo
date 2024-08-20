@@ -1,3 +1,5 @@
 is a big data file to store something important.
 
 more data was added to store in file.
+
+data added to view merge in another way.
